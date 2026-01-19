@@ -1,0 +1,24 @@
+CURRICULUM VITAE
+
+Nom: Lucas
+Portfolio: https://portfolio-lucas.vercel.app
+
+COMPÉTENCES
+- Next.js 15
+- React
+- TypeScript
+- Tailwind CSS
+- Node.js
+- Git & GitHub
+
+EXPÉRIENCE
+Développeur Web Full-Stack
+- Développement d'applications web modernes
+- Utilisation de technologies React et Next.js
+- Intégration d'APIs et services tiers
+
+FORMATION
+Développement Web et Applications
+
+PROJETS
+Consultez mes projets sur GitHub
