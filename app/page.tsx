@@ -49,8 +49,8 @@ export default function Home() {
             </h2>
             <p className="text-lg leading-relaxed text-zinc-600 dark:text-zinc-400">
               Développeur web spécialisé dans les technologies modernes comme Next.js, React, 
-              TypeScript et Tailwind CSS. Passionné par la création d'expériences utilisateur 
-              exceptionnelles et le développement d'applications performantes.
+              TypeScript et Tailwind CSS. Passionné par la création d&apos;expériences utilisateur 
+              exceptionnelles et le développement d&apos;applications performantes.
             </p>
           </section>
         </div>

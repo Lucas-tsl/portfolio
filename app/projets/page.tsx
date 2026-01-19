@@ -18,7 +18,7 @@ export default async function ProjetsPage() {
             href="/"
             className="inline-flex items-center text-zinc-600 hover:text-black dark:text-zinc-400 dark:hover:text-white"
           >
-            ← Retour à l'accueil
+            ← Retour à l&apos;accueil
           </Link>
           <h1 className="text-5xl font-bold tracking-tight text-black dark:text-white">
             Mes Projets

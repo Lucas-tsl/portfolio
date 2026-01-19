@@ -16,7 +16,7 @@ export default function CVPage() {
             href="/"
             className="inline-flex items-center text-zinc-600 hover:text-black dark:text-zinc-400 dark:hover:text-white"
           >
-            ← Retour à l'accueil
+            ← Retour à l&apos;accueil
           </Link>
           <h1 className="text-5xl font-bold tracking-tight text-black dark:text-white">
             Curriculum Vitae
@@ -85,9 +85,9 @@ export default function CVPage() {
                   Développeur Web Full-Stack
                 </h3>
                 <p className="mt-2 text-zinc-600 dark:text-zinc-400">
-                  Développement d'applications web modernes avec Next.js, React et TypeScript.
-                  Création d'interfaces utilisateur responsives et performantes.
-                  Intégration d'APIs et services tiers.
+                  Développement d&apos;applications web modernes avec Next.js, React et TypeScript.
+                  Création d&apos;interfaces utilisateur responsives et performantes.
+                  Intégration d&apos;APIs et services tiers.
                 </p>
               </div>
             </div>
